@@ -1,0 +1,15 @@
+.contact-section {
+    background-color: #000;
+    color: #d4af37;
+    padding: 2rem;
+}
+  
+.contact-section .form-control {
+    background-color: #333;
+    color: #d4af37;
+}
+  
+.contact-section .form-control::placeholder {
+    color: #d4af37;
+}
+  
